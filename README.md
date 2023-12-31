@@ -2,6 +2,10 @@
 
 - Create React App
 - Configured TailwindCSS
+- Header
+- Login Form
+- SignUp Form
+- Use Formik for form validations if you wish to
 
 
 # Features
