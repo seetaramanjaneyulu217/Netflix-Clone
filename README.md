@@ -3,10 +3,15 @@
 - Create React App
 - Configured TailwindCSS
 - Header
+- Routing of our app
 - Login Form
 - SignUp Form
+- Form Validation
+- Implemented Firebase Authentication
+- Configured the Redux store using Redux Toolkit
+- Implemented signout feature
+- UpdateProfile api call is also done
 - Use Formik for form validations if you wish to
-
 
 # Features
 - Login/SignUp
