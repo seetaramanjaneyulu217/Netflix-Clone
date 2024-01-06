@@ -11,6 +11,9 @@
 - Configured the Redux store using Redux Toolkit
 - Implemented signout feature
 - UpdateProfile api call is also done
+- BugFix - If user is not logged in redirect him to login page else redirect him to       browse page
+- Used the api's of TMDB to fetch movies and display them.
+- Implemented the autoplay the trailer part in the background of a movie display
 - Use Formik for form validations if you wish to
 
 # Features
